@@ -1,0 +1,1 @@
+web: gunicorn meteor.wsgi --log-file -
